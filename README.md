@@ -26,4 +26,4 @@ It's simple, fast, and ideal for anyone learning web development or experimentin
 ## 📂 How to Use
 
 1. Open the live project:  
-   [https://shubhamsrivastavaofficials.github.io/Shubham__coderunnerr/](https://shubhamsrivastavaofficials
+   https://shubhamsrivastavaofficials.github.io/Shubham__coderunnerr/
